@@ -1,0 +1,10 @@
+ProjType,Descr
+1,New Const.
+2,Addition
+3,Alteration
+4,Repair
+5,Replacement
+6,Demolition
+7,Occupancy
+8,Blasting
+9,Other

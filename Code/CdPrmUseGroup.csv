@@ -1,0 +1,42 @@
+UseGroup,Descr
+A-1,Theatre/Movie
+A-2,"Dance H, N Club"
+A-3,"Rest, Libr, Mus"
+A-4,"Churches, Schoo"
+A1,Theatre/Movie
+A2,"Dance H, N Club"
+A3,"Rest, Libr, Mus"
+A4,Churches
+A5,"Bleachers, Stad"
+B,Office Bldg. Lt
+E,Educational/Day Care
+F-1,Fact/Ind ModHaz
+F-2,Fact/Ind Lo Haz
+F1,Fact/Ind ModHaz
+F2,Fact/Ind Lo Haz
+H-1,Detonation Hazard
+H-2,Deflagration Hazard
+H-3,Physical Hazard
+H-4,Health Hazard
+H1,Detonation Hazard
+H2,Deflagration Hazard
+H3,Physical Hazard
+H4,Health Hazard
+I-1,Board/Care Facility
+I-2,Hosp/Nurs/Child Care
+I-3,Jails/Asylums/Ref.
+I1,Board/Care Facility
+I2,Hosp/Nurs/Child Care
+I3,Jails/Asylums/Ref.
+M,Mercantile
+R-1,"Hotel, Dorm"
+R-2,M Family Dwell.
+R-3,One-Two Family
+R1,"Hotel, Dorm"
+R2,M Family Dwell.
+R3,One-Two Family
+S-1,Warehse-Mod Haz
+S-2,Warehse-Lo Haz
+S1,Warehse-Mod Haz
+S2,Warehse-Lo Haz
+U,Utility/Misc.

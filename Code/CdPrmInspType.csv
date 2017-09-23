@@ -1,0 +1,281 @@
+InspType,Descr,Control
+100,Gen Build Insp,0
+101,Awnings,0
+102,Bridge/Over Pass,0
+103,Fire Escape,0
+104,Marquees,0
+105,Service Stairs,0
+106,Stadium,0
+107,Amuse Struct,0
+110,Fencing,0
+111,Garage,0
+112,Pool,0
+113,Retaining Wall,0
+114,Sprinkler Sys,0
+115,Tank,0
+120,Day Care Center,0
+121,Float Struct,0
+122,Home for Aged,0
+123,Hospitals,0
+124,Hotel/Motel,0
+125,Nursing Home,0
+126,Nurseries,0
+127,Parking Lot Emp,0
+128,Parking Lot Emp,0
+130,Rooming Hse CL1,0
+131,Rooming Hse CL2,0
+132,Rooming Hse CL3,0
+133,Rooming Hse CL4,0
+134,Schools,0
+137,Parking (Conv),0
+138,Parking Lot Com,0
+139,Parking Lot Com,0
+140,Fire Marshal,0
+142,Air Pollution,0
+144,Fire Safety,0
+151,A-Type   0-30,0
+152,A-Type  31-50,0
+153,A-Type  51-100,0
+154,A-Type 101-200,0
+155,A-Type 201-300,0
+156,A-Type 301-400,0
+157,A-Type 401-500,0
+158,A-Type 501-600,0
+159,A-Type 601-700,0
+160,A-Type 701-800,0
+161,A-Type 801-900,0
+162,A-Type 901-Over,0
+163,B-Type   0-30,0
+164,B-Type  31-50,0
+165,B-Type  51-100,0
+166,B-Type 101-200,0
+167,B-Type 201-300,0
+168,B-Type 301-400,0
+169,B-Type 401-500,0
+170,B-Type 501-600,0
+171,B-Type 601-700,0
+172,B-Type 701-800,0
+173,B-Type 801-900,0
+174,B-Type 901-Over,0
+175,C-Type   0-30,0
+176,C-Type  31-50,0
+177,C-Type  51-100,0
+178,C-Type 101-200,0
+179,C-Type 201-300,0
+180,C-Type 301-400,0
+181,C-Type 401-500,0
+182,C-Type 501-600,0
+183,C-Type 601-700,0
+184,C-Type 701-800,0
+185,C-Type 801-900,0
+186,C-Type 901-Over,0
+187,D-Type   0-30,0
+188,D-Type  31-50,0
+189,D-Type  51-100,0
+190,D-Type 101-200,0
+191,D-Type 201-300,0
+192,D-Type 301-400,0
+193,D-Type 401-500,0
+194,D-Type 501-600,0
+195,D-Type 601-700,0
+196,D-Type 701-800,0
+197,D-Type 801-900,0
+198,D-Type 901-Over,0
+199,PMT Gen Build Insp,0
+200,Heritage,0
+300,Gen Elec Insp,1
+311,100/199 Amp,3
+312,200/399 Amp,3
+313,400/600 Amp,3
+314,Over 600 Amp,3
+319,Services,3
+331,Elec Outlets,3
+332,Elec Fixtures,3
+333,Sub Panels,3
+334,Switch Boards,3
+335,Transformers,3
+336,X-Ray Machines,1
+337,Amusements,1
+338,Signs,3
+339,Communication Amp.,1
+340,Fire Alarms,3
+341,Security Systems,3
+342,Telephones,3
+343,Data Lines,3
+351,Res Rewire w/Service,1
+352,Res Rewire w/o Service,1
+353,Residential Const.,1
+359,Special Inspection,1
+400,Gen Plumb Insp,0
+401,Apartment Bldgs,0
+402,Auto Rep Gar,0
+403,Auto Svc Sta,0
+404,Barber Shops,0
+405,Beauty Shops,0
+406,Boarding House,0
+407,Car Wash Oper,0
+408,Clubs,0
+409,Commercial Bldg,0
+410,Convalescent Hm,0
+411,Day Care Center,0
+412,Food Pack Plant,0
+413,Food Processing,0
+414,Homes for Aged,0
+415,Hospitals,0
+416,Hotels/Motels,0
+417,Laundry Facilit,0
+418,Lodging House,0
+419,Mfg Bldg,0
+420,Med Bldg,0
+421,Mortuaries,0
+422,Nursing Home,0
+423,Nurseries,0
+424,Office Bldg,0
+425,Passenger Sta,0
+426,Public Assembly,0
+427,Restaurants,0
+428,Rooming House,0
+429,Tavern/Bar,0
+430,Theater,0
+450,Bath Tubs,1
+451,Drinking Fountains,1
+452,Floor Drains,1
+453,Indirect Drains,1
+454,Lavatories,1
+455,Sinks,1
+456,Showers,1
+457,Urinals,1
+458,Water Closets,1
+459,Water Heaters,1
+460,Intercepts,1
+470,Grease Trap,1
+471,Backflow Preventor,2
+472,Acid Dilution Tank,0
+473,Catch Basin,1
+479,Misc. Equipment,1
+480,Irrigation Systems,1
+481,Water Ext.,1
+482,Sewer Repair,1
+483,Special,1
+484,Ground Rough,1
+485,Rough,1
+486,Finish,1
+487,Tap Destroy,1
+488,Sewer Cap,1
+489,Sewer Extension,1
+490,Water Repair,1
+491,Correct Plumbing,1
+499,Misc.,0
+501,Amusement Rides,3
+502,Revolving Doors,3
+503,Escalator,3
+504,Dumbwaiter,3
+505,Auto Lift,3
+506,Material Lift,3
+507,Workmens Hoist,3
+508,Manlift,3
+509,Freight Elevator,3
+510,Passenger Elevator,3
+511,Residential Elevator,3
+512,Moving Sidewalk,3
+513,Misc. Hoist,3
+601,Boiler HP w/MH,3
+602,Boiler HP w/o MH,3
+603,Boiler LP w/MH,3
+604,Boiler LP w/o MH,3
+605,Unfired PV w/MH,3
+606,Unfired PV w/o MH,3
+607,Air Cond/Refrig,3
+608,Vent System,3
+609,Process Piping,3
+610,Cooling Tower,3
+699,Special Inspection,3
+700,Gen Mech Insp,0
+801,Hosp/Nursing Home  F. 102.2,0
+802,Nursery/Day Care   F. 102.2,0
+803,BPS Permits        F. 102.2,0
+804,Occupancy Permits  F. 102.2,0
+805,Demolition 0-9999  F. 102.2,0
+806,"Demo 10,000 - Over F. 102.2",0
+807,Dance Hall Permit  F. 102.2,0
+808,Sanitary Landfill  F. 102.2,0
+809,Motion Pic Studio  F. 102.2,0
+810,Other Insp/Service F. 102.2,0
+811,Cellular Materials F. 103.0,0
+812,Warehousing/Storag F. 103.0,0
+813,Cert of Fitness    F. 112.0,0
+814,Fire Precautions   F. 301.0,0
+815,Paint Remov Torch  F. 303.0,0
+816,Materials Storage  F. 305.0,0
+817,Comm Cooking Oper  F. 406.0,0
+818,Airports/Heliports F. 600.2,0
+819,Spraying/Dip Tank  F. 700.0,0
+820,Other Flamable Fin F. 700.0,0
+821,Bowling Pin/Lane   F. 802.0,0
+822,Dry Cleaning CL1   F. 900.0,0
+823,Dry Cleaning CL2   F. 900.0,0
+824,Dry Cleaning CL3   F. 900.0,0
+825,Grain Ele/Feed Mil F.1000.0,0
+826,Fruit Ripen Opr    F.1100.0,0
+827,Fumigat/Fogging Op F.1200.0,0
+828,Use/Stor Lumbr Yds F.1300.0,0
+829,Instal Oven/Frnace F.1500.0,0
+830,"Assembly, Oper     F.1600.0",0
+831,"Serv Station, Oper F.1700.0",0
+832,Tent/Air Support   F.1800.0,0
+833,Tire Rebuilding    F.1900.0,0
+834,"Wast/Junk Yd, Oper F.2000.0",0
+835,Weld/Cut Sys/Gen   F.2100.0,0
+836,Welding/Cut 1      F.2100.0,0
+837,Welding/Cut 2-5    F.2100.0,0
+838,Welding/Cut 6-25   F.2100.0,0
+839,Welding/Cut 26-Ovr F.2100.0,0
+840,Film Storage       F.2200.0,0
+841,Plastics Storage   F.2300.0,0
+842,"Combust Fiber, Use F.2400.0",0
+843,Comp Gas-Flammable F.2500.0,0
+844,Comp Gas-Non-Flam  F.2500.0,0
+845,Comp Gas-Combined  F.2500.0,0
+846,Cryogenic Liq/Stor F.2600.0,0
+847,Trans Blast Agents F.2700.0,0
+848,Rec Blstg Agt-Term F.2700.0,0
+849,Stor Blstg Agt-Amo F.2700.0,0
+850,Stor Gun Pwdr/Prim F.2700.0,0
+851,Discharge Firework F.2800.0,0
+852,Transport Firework F.2800.0,0
+853,Fire Prop Balloon  F.2800.0,0
+854,Flam Liquid 5-10   F.2900.0,0
+855,Flam Liq 10-100    F.2900.0,0
+856,Flam Liq 101-200   F.2900.0,0
+857,Flam Liq 201-500   F.2900.0,0
+858,Flam Liq 501-Over  F.2900.0,0
+859,C Liq o 60-249     F.2900.0,0
+860,C Liq o 250-Over   F.2900.0,0
+861,C Liq in 25-100    F.2900.0,0
+862,C Liq in 101-200   F.2900.0,0
+863,C Liq in 201-500   F.2900.0,0
+864,C Liq in 501-Over  F.2900.0,0
+865,Abv Gr Tks 100-50M F.2900.0,0
+866,Abv Gr Tks50M-200M F.2900.0,0
+867,Abv Gr Tks 200M-Up F.2900.0,0
+868,Below Ground       F.2900.0,0
+869,Refinery           F.2900.0,0
+870,Dispensing of Fuel F.2900.0,0
+871,Trans Flam Liquid  F.2900.0,0
+872,Flam Liquid Vault  F.2900.0,0
+873,Install/Remov Tank F.2904.6,0
+874,Repair/Clean Tank  F.2904.6,0
+875,Chemical Manu/Stor F.3000.0,0
+876,Radioact Mat. Stor F.3004.0,0
+877,Trans of Radioact  F.3004.0,0
+878,Liq Petro 2.5-100  F.3100.0,0
+879,Liq Petro 101-500  F.3100.0,0
+880,Liq Petro 501-1000 F.3100.0,0
+881,Liq Petro 1001-500 F.3100.0,0
+882,Liq Petro 5001-Ove F.3100.0,0
+883,Liq Petro Exhibits F.3100.0,0
+884,Trans Liq Petro    F.3100.0,0
+885,Use of Magnesium   F.3200.0,0
+886,Storage of Matches F.3300.0,0
+887,Organic Coat Use   F.3400.0,0
+900,Demolition,0

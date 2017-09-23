@@ -1,0 +1,21 @@
+RtType,RtSeqNo,Descr
+BL,10,Building
+EL,20,Electrical
+MCH,30,Mechanical
+PLM,40,Plumbing
+AP,50,Air Pollution
+FM,60,Fire Marshal
+ST,70,Streets
+PX,90,Plan Exam
+CRO,100,Cultural Resources Office
+ZON,110,Zoning
+ADA,120,Americans with Disabilities
+FS,81,Fire Safety
+BPS,83,Board of Public Service
+GAS,82,Gas
+WTR,92,Water
+BND,112,Bond
+INS,122,Insurance
+MXT,80,Minimum Exterior
+O1,130,Other 1
+O2,140,Other 2
